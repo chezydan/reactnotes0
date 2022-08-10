@@ -7,7 +7,8 @@ function  Header({handleTogleDarkMode}){
         <h4> cloned from chrisblakely </h4>
         <button className='save'
         onClick={
-          ()=>(handleTogleDarkMode((prevDarkMode)=> !prevDarkMode )  )}    > Toggle Mode</button>
+          ()=>(handleTogleDarkMode((prevDarkMode)=> !prevDarkMode )  )} >
+           Toggle Mode</button>
     </div>
   )
 }
