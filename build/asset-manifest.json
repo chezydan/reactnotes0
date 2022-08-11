@@ -1,13 +1,13 @@
 {
-  "main.css": "/ReactNotes/static/css/main.4a7d28f0.chunk.css",
-  "main.js": "/ReactNotes/static/js/main.f0fa8b63.chunk.js",
-  "main.js.map": "/ReactNotes/static/js/main.f0fa8b63.chunk.js.map",
-  "static/js/1.a673ba00.chunk.js": "/ReactNotes/static/js/1.a673ba00.chunk.js",
-  "static/js/1.a673ba00.chunk.js.map": "/ReactNotes/static/js/1.a673ba00.chunk.js.map",
-  "runtime~main.js": "/ReactNotes/static/js/runtime~main.9f3f44dd.js",
-  "runtime~main.js.map": "/ReactNotes/static/js/runtime~main.9f3f44dd.js.map",
-  "static/css/main.4a7d28f0.chunk.css.map": "/ReactNotes/static/css/main.4a7d28f0.chunk.css.map",
-  "index.html": "/ReactNotes/index.html",
-  "precache-manifest.ae75100818da96738767e1b2bcec61d1.js": "/ReactNotes/precache-manifest.ae75100818da96738767e1b2bcec61d1.js",
-  "service-worker.js": "/ReactNotes/service-worker.js"
+  "main.css": "/reactnotes0/static/css/main.4a7d28f0.chunk.css",
+  "main.js": "/reactnotes0/static/js/main.f0fa8b63.chunk.js",
+  "main.js.map": "/reactnotes0/static/js/main.f0fa8b63.chunk.js.map",
+  "static/js/1.a673ba00.chunk.js": "/reactnotes0/static/js/1.a673ba00.chunk.js",
+  "static/js/1.a673ba00.chunk.js.map": "/reactnotes0/static/js/1.a673ba00.chunk.js.map",
+  "runtime~main.js": "/reactnotes0/static/js/runtime~main.7e2dc7f4.js",
+  "runtime~main.js.map": "/reactnotes0/static/js/runtime~main.7e2dc7f4.js.map",
+  "static/css/main.4a7d28f0.chunk.css.map": "/reactnotes0/static/css/main.4a7d28f0.chunk.css.map",
+  "index.html": "/reactnotes0/index.html",
+  "precache-manifest.dc7bf5aa469a03017e8222570b61ae56.js": "/reactnotes0/precache-manifest.dc7bf5aa469a03017e8222570b61ae56.js",
+  "service-worker.js": "/reactnotes0/service-worker.js"
 }
